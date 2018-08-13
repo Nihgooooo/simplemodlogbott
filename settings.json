@@ -1,9 +1,9 @@
 {
-    "token": "",
-    "prefix": "",
-    "game": "",
-    "status": "online",
-    "serverID": "",
-    "modrole": "",
-    "modchannel": ""
+    "token": "Your token here",
+    "prefix": "Prefix here (for the commands kick, ban, mute, unmute, tempban, tempunban",
+    "game": "A game to set as playing status",
+    "status": "Status of the bot (online, idle, dnd, invisible)",
+    "serverID": "Your server ID here",
+    "modrole": "Role required to use the bot",
+    "modchannel": "The channel to log all the modlogs"
 }
